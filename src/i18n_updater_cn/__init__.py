@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
 Minecraft 模组汉化包更新器
 
@@ -8,6 +5,6 @@ Minecraft 模组汉化包更新器
 基于 I18nUpdateMod3 项目重写的 Python 版本
 """
 
-__version__ = '1.0.0'
+__version__ = "2.0.0"
 
 from .main import download_or_convert_language_pack
