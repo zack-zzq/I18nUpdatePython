@@ -81,7 +81,7 @@ else:
 
 - **Minecraft**: 1.6.1 ~ 1.21.10 所有版本
 - **Mod 加载器**: Forge、NeoForge、Fabric、Quilt
-- **Python**: 3.9 及以上版本
+- **Python**: 3.10 及以上版本
 
 ## 核心特性
 
